@@ -1,5 +1,7 @@
 # Polymarket Hype Radar
 
+你可以在这里快速的体验demo：https://polymarket-hype-radar.vercel.app/
+
 > 实时捕捉预测市场的「真热度」，用数据驱动你的交易决策
 
 一个免费、轻量、透明的 Polymarket 热度追踪工具。它将 24h 交易量、价格变化与搜索筛选组合成清晰的信号面板，帮助你快速发现趋势、验证想法、把握机会。
