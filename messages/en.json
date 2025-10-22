@@ -1,0 +1,44 @@
+{
+  "app": {
+    "title": "Polymarket Hype Radar",
+    "subtitle": "🔥 Real-time tracking of hottest prediction markets · Data updates every 30 seconds",
+    "loading": "Loading market data...",
+    "loadingSubtitle": "Please wait, fetching latest data from Polymarket",
+    "loadError": "Loading Failed",
+    "loadErrorMessage": "Unable to fetch market data, please try again later",
+    "markets": "markets",
+    "realtime": "● Live",
+    "search": "Search",
+    "dataSource": "Data Source:"
+  },
+  "search": {
+    "placeholder": "🔍 Search market name or category..."
+  },
+  "tabs": {
+    "hot": "🔥 Hot",
+    "trending": "📈 Trending"
+  },
+  "table": {
+    "rank": "#",
+    "market": "Market",
+    "category": "Category",
+    "volume24h": "24h Volume",
+    "volume7d": "7d Volume",
+    "priceChange24h": "24h Change",
+    "endTime": "End Time",
+    "noData": "No market data available",
+    "noDataSubtitle": "Try adjusting search criteria or switching tabs"
+  },
+  "footer": {
+    "openSource": "Open Source Project",
+    "free": "Completely Free",
+    "dataFrom": "Data from Polymarket Official API",
+    "apiDocs": "API Docs",
+    "github": "GitHub",
+    "madeWith": "Made with ❤️ for the prediction markets community"
+  },
+  "social": {
+    "telegram": "Telegram",
+    "twitter": "Twitter/X"
+  }
+}

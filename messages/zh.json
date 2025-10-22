@@ -1,0 +1,44 @@
+{
+  "app": {
+    "title": "Polymarket 热度雷达",
+    "subtitle": "🔥 实时追踪最热门的预测市场 · 数据每 30 秒自动更新",
+    "loading": "正在加载市场数据...",
+    "loadingSubtitle": "请稍候，正在从 Polymarket 获取最新数据",
+    "loadError": "加载失败",
+    "loadErrorMessage": "无法获取市场数据，请稍后重试",
+    "markets": "个市场",
+    "realtime": "● 实时",
+    "search": "搜索",
+    "dataSource": "数据来源:"
+  },
+  "search": {
+    "placeholder": "🔍 搜索市场名称或分类..."
+  },
+  "tabs": {
+    "hot": "🔥 热度榜",
+    "trending": "📈 涨幅榜"
+  },
+  "table": {
+    "rank": "#",
+    "market": "市场",
+    "category": "分类",
+    "volume24h": "24h 交易量",
+    "volume7d": "7d 交易量",
+    "priceChange24h": "24h 涨跌",
+    "endTime": "结束时间",
+    "noData": "暂无市场数据",
+    "noDataSubtitle": "请尝试调整搜索条件或切换标签"
+  },
+  "footer": {
+    "openSource": "开源项目",
+    "free": "完全免费",
+    "dataFrom": "数据来自 Polymarket 官方 API",
+    "apiDocs": "API 文档",
+    "github": "GitHub",
+    "madeWith": "用 ❤️ 为预测市场社区打造"
+  },
+  "social": {
+    "telegram": "Telegram",
+    "twitter": "Twitter/X"
+  }
+}
